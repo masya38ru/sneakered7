@@ -1,0 +1,82 @@
+#form_register, #form_auth {
+    padding-top: 20px;
+    width: 300px;
+    min-height: 150px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+
+}
+
+
+#authorized h2 {
+    text-align: center;
+}
+
+p {
+    margin: 20px;
+    font-size: 150%;
+    font-family: Alegreya;
+}
+
+a {
+    cursor: pointer;
+}
+
+#top {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 10px;
+}
+
+#content {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 10px;
+}
+
+#footer a {
+    margin: 10px
+}
+
+.button {
+    height: 40px;
+    width: 190px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 150%;
+    font-family: Alegreya;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+    border: 1px solid #000;
+
+}
+
+.buttonIcon {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.ref_reg {
+    text-align: center;
+}
+
+.form_registration {
+
+    border: 3px solid #000000;
+    text-align: center;
+    font-family: Alegreya;
+}
