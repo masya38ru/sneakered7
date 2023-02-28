@@ -18,7 +18,7 @@ require_once("header.php");
         </div>
     </div>
     <div id="right">
-        <img src="img/Настя Тахтарова.jpg" width="340">
+        <img src="img/Вакмис.jpg" width="340">
     </div>
 </section>
 <?php

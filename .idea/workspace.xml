@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80c8bfcd-09e4-4734-9381-a2625fb6b73c" name="Changes" comment="" />
+    <list default="true" id="80c8bfcd-09e4-4734-9381-a2625fb6b73c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/html/dbconnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/about_company.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_company.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/confirm_order.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/confirm_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_add_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_add_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_add_kind.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_add_kind.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_add_order.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_add_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_add_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_add_product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_catalog.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_catalog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_check_profit.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_check_profit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_drop_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_drop_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_drop_kind.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_drop_kind.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_drop_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_drop_product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_register.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_update_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_update_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form_update_kind.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/form_update_kind.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/more_info_order.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/more_info_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/order_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/order_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/personal_account.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/personal_account.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/personal_account_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/personal_account_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/place_order.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/place_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/shopping_cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/shopping_cart.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,30 +50,47 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/html" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="2LpYaIgBme9OkleSYc2A9OcZf3B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/php/php.exe&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm": "WSL",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm": "WSL",
+    "last_opened_file_path": "D:/Бонч/4.1/Евст/sneakered7/html",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Бонч\4.1\Евст\sneakered7\html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Бонч\4.1\Евст\sneakered7\html" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,22 +106,12 @@
       <workItem from="1676994713659" duration="988000" />
       <workItem from="1676996951643" duration="3984000" />
       <workItem from="1677077464121" duration="389000" />
+      <workItem from="1677614348074" duration="3247000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/php/captcha.php</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
